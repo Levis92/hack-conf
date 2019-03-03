@@ -26,6 +26,7 @@ const Label = styled.li`
   border-radius: 5px;
   margin: 2px;
   padding: 5px;
+  white-space: nowrap;
 `
 
 const Event = ({ name, type, location, url, labels }) => (
