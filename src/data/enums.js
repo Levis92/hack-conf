@@ -1,6 +1,7 @@
 export const Types = {
   CONFERENCE: 'Conference',
   HACKATHON: 'Hackathon',
+  OTHER: 'Other',
 }
 
 export const Labels = {
@@ -10,14 +11,18 @@ export const Labels = {
   SOCIAL_AWARENESS: 'Social awareness',
   FEMINISM: 'Feminism',
   CLIMATE: 'Climate',
-  HEALTH: 'Health'
+  HEALTH: 'Health',
+  PROBLEM_SOLVING: 'Problem Solving',
+  OPEN_SOURCE: 'Open Source'
 }
 
 export const Locations = {
   ONLINE: 'Online',
   LONDON: 'London, UK',
+  SWEDEN: 'Sweden',
   GOTHENBURG: 'Gothenburg, SE',
   STOCKHOLM: 'Stockholm, SE',
+  ALMEDALEN: 'Almedalen, SE',
   HONGKONG: 'Hong Kong, HK'
 }
 

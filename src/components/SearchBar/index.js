@@ -2,13 +2,16 @@ import React from "react";
 import styled from "styled-components";
 
 const SearchInput = styled.input`
-  font-size: 18px;
-  background: #f1f1f1;
-  border: none;
+  box-sizing: border-box;
+  font-size: 2.2rem;
+  background: white;
+  border: 2px solid #eaeaea;
   outline: none;
-  border-radius: 5px;
-  padding: 5px 10px;
-  margin: 15px 0;
+  border-radius: 4px;
+  padding: 1rem 2rem;
+  margin: 1.5rem 0;
+  width: 95%;
+  max-width: 60rem;
 `
 
 const SearchBar = ({ value, onChange }) => (

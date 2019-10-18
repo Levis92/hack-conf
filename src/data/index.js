@@ -42,7 +42,35 @@ const events = [
     url: "http://uxhongkong.com",
     type: Types.CONFERENCE,
     labels: [Labels.UX]
-  }
+  },
+  {
+    name: "The Considition",
+    location: Locations.SWEDEN,
+    url: "https://theconsidition.se",
+    type: Types.HACKATHON,
+    labels: [Labels.UX, Labels.BACKEND, Labels.FRONTEND, Labels.SOCIAL_AWARENESS]
+  },
+  {
+    name: "Hack For Sweden",
+    location: Locations.ALMEDALEN,
+    url: "https://hackforsweden.se",
+    type: Types.HACKATHON,
+    labels: [Labels.UX, Labels.BACKEND, Labels.FRONTEND, Labels.SOCIAL_AWARENESS]
+  },
+  {
+    name: "Advent of Code",
+    location: Locations.ONLINE,
+    url: "https://adventofcode.com",
+    type: Types.OTHER,
+    labels: [Labels.PROBLEM_SOLVING]
+  },
+  {
+    name: "Hacktoberfest",
+    location: Locations.ONLINE,
+    url: "https://hacktoberfest.digitalocean.com",
+    type: Types.OTHER,
+    labels: [Labels.PROBLEM_SOLVING, Labels.OPEN_SOURCE]
+  },
 ];
 
 export default events;
