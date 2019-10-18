@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hack-conf/static/css/main.f790bc50.chunk.css",
+    "main.js": "/hack-conf/static/js/main.741c263e.chunk.js",
+    "main.js.map": "/hack-conf/static/js/main.741c263e.chunk.js.map",
+    "runtime-main.js": "/hack-conf/static/js/runtime-main.38d79ad7.js",
+    "runtime-main.js.map": "/hack-conf/static/js/runtime-main.38d79ad7.js.map",
+    "static/js/2.375d6ad5.chunk.js": "/hack-conf/static/js/2.375d6ad5.chunk.js",
+    "static/js/2.375d6ad5.chunk.js.map": "/hack-conf/static/js/2.375d6ad5.chunk.js.map",
+    "index.html": "/hack-conf/index.html",
+    "precache-manifest.6d4b9bd99216f7829d5d33d2179641d1.js": "/hack-conf/precache-manifest.6d4b9bd99216f7829d5d33d2179641d1.js",
+    "service-worker.js": "/hack-conf/service-worker.js",
+    "static/css/main.f790bc50.chunk.css.map": "/hack-conf/static/css/main.f790bc50.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38d79ad7.js",
+    "static/js/2.375d6ad5.chunk.js",
+    "static/css/main.f790bc50.chunk.css",
+    "static/js/main.741c263e.chunk.js"
+  ]
+}
